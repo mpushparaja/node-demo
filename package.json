@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-heroku",
+  "version": "1.0.0",
+  "description": "Rest API sample",
+  "main": "app.js",
+   "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
